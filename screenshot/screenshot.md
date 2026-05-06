@@ -8,7 +8,7 @@ This document contains screenshots showing the working proof of the full-stack d
 
 **URL:** `http://35.154.66.193` (Apache2 on Port 80)
 
-![CloudBlitz Student Registration Frontend](screenshot/home.png)
+![CloudBlitz Student Registration Frontend](home.png)
 
 ### What this shows:
 - React frontend successfully deployed on AWS EC2 using Apache2
