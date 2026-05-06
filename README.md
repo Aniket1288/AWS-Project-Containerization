@@ -7,14 +7,14 @@ A full-stack CRUD-based web application designed to manage student records effic
 ## 📸 Application Screenshots
 
 ### 🏠 Frontend — Student Registration Form
-![CloudBlitz Student Registration](home.png)
+![CloudBlitz Student Registration](screenshot/home.png)
 
 > React frontend live at `http://35.154.66.193` — deployed on AWS EC2 using Apache2
 
 ---
 
 ### 🗄️ Database — MariaDB Data Verification
-![MariaDB Student Records](data.png)
+![MariaDB Student Records](screenshot/data.png)
 
 > Student records stored successfully in MariaDB — end-to-end data flow verified via AWS EC2 terminal
 
@@ -240,10 +240,10 @@ cloudblitz-student-app/
 
 | File | Description |
 |---|---|
-| [frontend.md](frontend.md) | React frontend deployment guide |
-| [backend.md](backend.md) | Spring Boot backend deployment guide |
-| [database.md](database.md) | MariaDB setup and configuration guide |
-| [screenshot.md](screenshot.md) | Project screenshots with descriptions |
+| [frontend.md](frontend/frontend.md) | React frontend deployment guide |
+| [backend.md](backend/backend.md) | Spring Boot backend deployment guide |
+| [database.md](database/database.md) | MariaDB setup and configuration guide |
+| [screenshot.md](screenshot/screenshot.md) | Project screenshots with descriptions |
 
 ---
 
